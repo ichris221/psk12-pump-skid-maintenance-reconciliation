@@ -1,0 +1,68 @@
+work_order,service_date,asset_tag,component,item_description,unit,source_value,status,technician,shift,note
+WO-58342,2026-05-06,P-1201A,Work order,CMMS task title,text,Quarterly pump PM,closed,MT-AR,days,Lube oil drained and refilled; seal flush checked
+WO-58342,2026-05-06,P-1201A,Work order,CMMS closure status,text,closed,closed,MT-AR,days,
+WO-58343,2026-05-06,P-1201B,Work order,CMMS task title,text,Quarterly pump PM,closed,MT-AR,days,Seal leak cup checked; coupling guard refitted
+WO-58343,2026-05-06,P-1201B,Work order,CMMS closure status,text,closed,closed,MT-AR,days,
+WO-58344,2026-05-07,P-1201C,Work order,CMMS task title,text,Quarterly pump PM,closed,MT-JP,days,Bearing housing temperature noted high during walkdown
+WO-58344,2026-05-07,P-1201C,Work order,CMMS closure status,text,closed,closed,MT-JP,days,
+WO-58346,2026-05-08,P-1202A,Work order,CMMS task title,text,Quarterly pump PM,closed,MT-JP,days,Soft foot values recorded after motor inspection
+WO-58346,2026-05-08,P-1202A,Work order,CMMS closure status,text,closed,closed,MT-JP,days,
+WO-58347,2026-05-08,P-1202B,Work order,CMMS task title,text,Quarterly pump PM,closed,MT-AR,days,Vibration trend copied from portable meter
+WO-58347,2026-05-08,P-1202B,Work order,CMMS closure status,text,closed,closed,MT-AR,days,
+WO-58350,2026-05-09,P-1210A,Work order,CMMS task title,text,Quarterly pump PM,closed,MT-SL,days,Drainage from seal pot checked
+WO-58350,2026-05-09,P-1210A,Work order,CMMS closure status,text,closed,closed,MT-SL,days,
+WO-58351,2026-05-09,P-1210B,Work order,CMMS task title,text,Quarterly pump PM,closed,MT-SL,days,Grease purge observed at NDE bearing
+WO-58351,2026-05-09,P-1210B,Work order,CMMS closure status,text,closed,closed,MT-SL,days,
+WO-58355,2026-05-10,P-1220A,Work order,CMMS task title,text,Quarterly pump PM,closed,MT-AR,days,Minor weep from seal quench line noted
+WO-58355,2026-05-10,P-1220A,Work order,CMMS closure status,text,closed,closed,MT-AR,days,
+WO-58342,2026-05-06,P-1201A,Coupling,vertical offset,mm,0.08,closed,MT-AR,days,Dial gauge after warm run
+WO-58342,2026-05-06,P-1201A,Coupling,horizontal offset,mm,0.12,closed,MT-AR,days,Dial gauge after warm run
+WO-58342,2026-05-06,P-1201A,DE bearing,oil fill volume,L,1.15,closed,MT-AR,days,Sight glass midline after refill
+WO-58343,2026-05-06,P-1201B,Mechanical seal,seal leakage,ml/min,14.0,closed,MT-AR,days,Measured in catch bottle
+WO-58343,2026-05-06,P-1201B,DE bearing,vibration velocity horizontal,mm/s,5.8,closed,MT-AR,days,Portable meter RMS
+WO-58344,2026-05-07,P-1201C,DE bearing,bearing temperature,degC,83.0,closed,MT-AR,days,Infrared thermometer at outboard cap
+WO-58346,2026-05-08,P-1202A,Motor foot,soft foot front left,mm,0.06,closed,MT-AR,days,Feeler gauge under foot
+WO-58347,2026-05-08,P-1202B,NDE bearing,vibration velocity vertical,mm/s,4.2,closed,MT-AR,days,Portable meter RMS
+WO-58350,2026-05-09,P-1210A,Coupling,axial gap,mm,3.4,closed,MT-AR,days,Final spacer gap
+WO-58351,2026-05-09,P-1210B,DE bearing,grease quantity added,g,34.0,closed,MT-AR,days,Grease gun metered quantity
+WO-58355,2026-05-10,P-1220A,Mechanical seal,seal leakage,ml/min,4.0,closed,MT-AR,days,Visual estimate cup reading
+PM-A-01,2026-05-11,P-1201A,PM checklist,guard fitted,text,checked,closed,MT-KR,nights,
+PM-A-02,2026-05-11,P-1201A,PM checklist,seal flush valve tagged open,text,checked,closed,MT-KR,nights,
+PM-A-03,2026-05-11,P-1201A,PM checklist,bearing cap fasteners paint marked,text,checked,closed,MT-KR,nights,
+PM-A-04,2026-05-11,P-1201A,PM checklist,baseplate drain plug installed,text,checked,closed,MT-KR,nights,
+PM-A-05,2026-05-11,P-1201A,PM checklist,coupling rotation arrow present,text,checked,closed,MT-KR,nights,
+PM-B-01,2026-05-11,P-1201B,PM checklist,guard fitted,text,checked,closed,MT-KR,nights,
+PM-B-02,2026-05-11,P-1201B,PM checklist,seal flush valve tagged open,text,checked,closed,MT-KR,nights,
+PM-B-03,2026-05-11,P-1201B,PM checklist,bearing cap fasteners paint marked,text,checked,closed,MT-KR,nights,
+PM-B-04,2026-05-11,P-1201B,PM checklist,baseplate drain plug installed,text,checked,closed,MT-KR,nights,
+PM-B-05,2026-05-11,P-1201B,PM checklist,coupling rotation arrow present,text,checked,closed,MT-KR,nights,
+PM-C-01,2026-05-11,P-1201C,PM checklist,guard fitted,text,checked,closed,MT-KR,nights,
+PM-C-02,2026-05-11,P-1201C,PM checklist,seal flush valve tagged open,text,checked,closed,MT-KR,nights,
+PM-C-03,2026-05-11,P-1201C,PM checklist,bearing cap fasteners paint marked,text,checked,closed,MT-KR,nights,
+PM-C-04,2026-05-11,P-1201C,PM checklist,baseplate drain plug installed,text,checked,closed,MT-KR,nights,
+PM-C-05,2026-05-11,P-1201C,PM checklist,coupling rotation arrow present,text,checked,closed,MT-KR,nights,
+PM-A-01,2026-05-11,P-1202A,PM checklist,guard fitted,text,checked,closed,MT-KR,nights,
+PM-A-02,2026-05-11,P-1202A,PM checklist,seal flush valve tagged open,text,checked,closed,MT-KR,nights,
+PM-A-03,2026-05-11,P-1202A,PM checklist,bearing cap fasteners paint marked,text,checked,closed,MT-KR,nights,
+PM-A-04,2026-05-11,P-1202A,PM checklist,baseplate drain plug installed,text,checked,closed,MT-KR,nights,
+PM-A-05,2026-05-11,P-1202A,PM checklist,coupling rotation arrow present,text,checked,closed,MT-KR,nights,
+PM-B-01,2026-05-11,P-1202B,PM checklist,guard fitted,text,checked,closed,MT-KR,nights,
+PM-B-02,2026-05-11,P-1202B,PM checklist,seal flush valve tagged open,text,checked,closed,MT-KR,nights,
+PM-B-03,2026-05-11,P-1202B,PM checklist,bearing cap fasteners paint marked,text,checked,closed,MT-KR,nights,
+PM-B-04,2026-05-11,P-1202B,PM checklist,baseplate drain plug installed,text,checked,closed,MT-KR,nights,
+PM-B-05,2026-05-11,P-1202B,PM checklist,coupling rotation arrow present,text,checked,closed,MT-KR,nights,
+PM-A-01,2026-05-11,P-1210A,PM checklist,guard fitted,text,checked,closed,MT-KR,nights,
+PM-A-02,2026-05-11,P-1210A,PM checklist,seal flush valve tagged open,text,checked,closed,MT-KR,nights,
+PM-A-03,2026-05-11,P-1210A,PM checklist,bearing cap fasteners paint marked,text,checked,closed,MT-KR,nights,
+PM-A-04,2026-05-11,P-1210A,PM checklist,baseplate drain plug installed,text,checked,closed,MT-KR,nights,
+PM-A-05,2026-05-11,P-1210A,PM checklist,coupling rotation arrow present,text,checked,closed,MT-KR,nights,
+PM-B-01,2026-05-11,P-1210B,PM checklist,guard fitted,text,checked,closed,MT-KR,nights,
+PM-B-02,2026-05-11,P-1210B,PM checklist,seal flush valve tagged open,text,checked,closed,MT-KR,nights,
+PM-B-03,2026-05-11,P-1210B,PM checklist,bearing cap fasteners paint marked,text,checked,closed,MT-KR,nights,
+PM-B-04,2026-05-11,P-1210B,PM checklist,baseplate drain plug installed,text,checked,closed,MT-KR,nights,
+PM-B-05,2026-05-11,P-1210B,PM checklist,coupling rotation arrow present,text,checked,closed,MT-KR,nights,
+PM-A-01,2026-05-11,P-1220A,PM checklist,guard fitted,text,checked,closed,MT-KR,nights,
+PM-A-02,2026-05-11,P-1220A,PM checklist,seal flush valve tagged open,text,checked,closed,MT-KR,nights,
+PM-A-03,2026-05-11,P-1220A,PM checklist,bearing cap fasteners paint marked,text,checked,closed,MT-KR,nights,
+PM-A-04,2026-05-11,P-1220A,PM checklist,baseplate drain plug installed,text,checked,closed,MT-KR,nights,
+PM-A-05,2026-05-11,P-1220A,PM checklist,coupling rotation arrow present,text,checked,closed,MT-KR,nights,
